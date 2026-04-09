@@ -1,7 +1,6 @@
 
 ---
 
-## summer-school-online-day1
 
 ### 🏠 `portfolio.html`
 - Homepage showcasing:
