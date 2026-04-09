@@ -1,7 +1,4 @@
 
----
-
-
 ### 🏠 `portfolio.html`
 - Homepage showcasing:
   - Skills (`<ul>`)
